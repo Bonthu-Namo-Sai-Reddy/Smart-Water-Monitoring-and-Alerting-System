@@ -25,16 +25,16 @@ TWILIO Free Trail Account (for sending alerting messages to target mobile number
 Power Supply (for running the system)
 
 🛠️ Installation & Setup
-1) Clone the Repository : git clone https://github.com/yourusername/Smart-Water-Quality-Monitoring-and-Alerting-System.git
+1) Clone the Repository : git clone https://github.com/Bonthu-Namo-Sai-Reddy/Smart-Water-Monitoring-and-Alerting-System.git
 cd Smart-Water-Quality-Monitoring-and-Alerting-System
 
-2) Upload Code to Arduino & ESP32
+3) Upload Code to Arduino & ESP32
 Open arduino_code.ino in the Arduino IDE and upload it to Arduino.
 Open esp32_code.ino in the Arduino IDE and upload it to ESP32.
 
-3) Connect Hardware & Power On
+4) Connect Hardware & Power On
 
-4) Monitor Water Quality & Get Alerts 🚨
+5) Monitor Water Quality & Get Alerts 🚨
 
 Reference  
 https://www.electroniclinic.com/tds-sensor-and-esp32-iot-based-water-quality-monitoring-system/
