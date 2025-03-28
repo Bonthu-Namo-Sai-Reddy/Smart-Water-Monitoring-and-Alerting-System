@@ -6,10 +6,10 @@ This project monitors the water quality using a TDS sensor. It reads TDS values 
 🛠️ How It Works  
 The TDS Sensor measures the TDS value of the water.  
 The Arduino reads the TDS value and transmits data to the ESP32 Dev Kit using UART protocol.  
-The ESP32 checks if the TDS value exceeds 250 ppm:
-✅ If TDS ≤ 250: No action is taken.
+The ESP32 checks if the TDS value exceeds 250 ppm:  
+✅ If TDS ≤ 250: No action is taken.  
 ❌ If TDS > 250: The system sends continuous SMS alerts to a registered mobile number until the water quality improves.  
-The process continues in real-time, ensuring safe water quality monitoring.
+The process continues in real-time, ensuring safe water quality monitoring.  
 
 🚀 Features  
 ✔️ Real-time water quality monitoring  
