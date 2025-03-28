@@ -36,7 +36,7 @@ Open esp32_code.ino in the Arduino IDE and upload it to ESP32.
 
 5) Monitor Water Quality & Get Alerts 🚨
 
-Reference  
+📂 Resources  
 https://www.electroniclinic.com/tds-sensor-and-esp32-iot-based-water-quality-monitoring-system/
 
 📜 License  
